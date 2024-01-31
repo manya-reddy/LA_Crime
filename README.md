@@ -37,6 +37,14 @@ Loading into databases we have - MySql and Azure
 
 
 Visualisations and inferences we have -
+
+
+
+
+
+
+
+
 v<img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/047fbc50-ba2d-4cf7-a3f1-9e4c90dbcb35">
 
 
