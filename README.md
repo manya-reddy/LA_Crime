@@ -5,9 +5,26 @@ Firstly, we deal with data incocnsistencies and missing values that are profiled
 
 
 Now, Transformations to transform our data
+
+
+
+
+
+
+
+
+
+
 <img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/d254d214-c53f-4b40-9b72-ffa8e8673e37">
 
-Loading into databases we have - 
+Loading into databases we have - MySql and Azure
 <img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/f8ad1759-7ecd-4f44-9073-0c10d85ca0d2">
-<img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/1d0deae3-6ab9-4f43-9328-f6dfb8dd0af1">
+
+
+<img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/bd3d6067-2bc9-4020-ad1f-e8ddad829127">
+
+
+Visualisations and inferences we have -
+v<img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/047fbc50-ba2d-4cf7-a3f1-9e4c90dbcb35">
+<img width="452" alt="image" src="https://github.com/manya-reddy/LA_Crime/assets/113812925/1be602e3-7618-4405-a7fb-d06a15d092db">
 
